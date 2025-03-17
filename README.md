@@ -12,8 +12,8 @@ root/
 │-- README.md                    # This file
 ```
 
-- **[Frontend (Flutter)](./flutter_nicopixel_frontend/README.md)**: A mobile app built with Flutter that fetches and displays Nobel Prize winners.
-- **[Backend (Node.js)](./node_nicopixel_server/README.md)**: A lightweight Express.js API that retrieves and serves Nobel Prize data.
+- **[Frontend (Flutter)](./flutter_nicopixel_frontend/)**: A mobile app built with Flutter that fetches and displays Nobel Prize winners.
+- **[Backend (Node.js)](./node_nicopixel_server/)**: A lightweight Express.js API that retrieves and serves Nobel Prize data.
 
 ## 🚀 Getting Started
 
