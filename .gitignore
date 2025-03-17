@@ -1,0 +1,133 @@
+# 🌍 General OS/IDE Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.swn
+*.bak
+*.log
+*.pyc
+*.pyo
+*.class
+*.history
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# 🚀 Flutter (Frontend)
+flutter_nicopixel_frontend/.dart_tool/
+flutter_nicopixel_frontend/.flutter-plugins
+flutter_nicopixel_frontend/.flutter-plugins-dependencies
+flutter_nicopixel_frontend/.pub-cache/
+flutter_nicopixel_frontend/.pub/
+flutter_nicopixel_frontend/build/
+flutter_nicopixel_frontend/doc/api/
+flutter_nicopixel_frontend/ios/Flutter/.last_build_id
+flutter_nicopixel_frontend/app.*.symbols
+flutter_nicopixel_frontend/app.*.map.json
+flutter_nicopixel_frontend/.metadata
+flutter_nicopixel_frontend/pubspec.lock
+flutter_nicopixel_frontend/.dart_tool/
+flutter_nicopixel_frontend/android/.gradle/
+flutter_nicopixel_frontend/ios/Pods/
+flutter_nicopixel_frontend/macos/Flutter/
+flutter_nicopixel_frontend/windows/
+flutter_nicopixel_frontend/linux/
+
+# Android (Flutter)
+flutter_nicopixel_frontend/android/.gradle/
+flutter_nicopixel_frontend/android/.idea/
+flutter_nicopixel_frontend/android/local.properties
+flutter_nicopixel_frontend/android/app/debug
+flutter_nicopixel_frontend/android/app/profile
+flutter_nicopixel_frontend/android/app/release
+
+# Xcode (Flutter iOS)
+flutter_nicopixel_frontend/ios/.generated/
+flutter_nicopixel_frontend/ios/.symlinks/
+flutter_nicopixel_frontend/ios/Flutter/App.framework
+flutter_nicopixel_frontend/ios/Flutter/Flutter.framework
+flutter_nicopixel_frontend/ios/Flutter/flutter_assets/
+flutter_nicopixel_frontend/ios/Flutter/.lock
+flutter_nicopixel_frontend/ios/Flutter/.build-id
+flutter_nicopixel_frontend/ios/.flutter-plugins
+flutter_nicopixel_frontend/ios/.flutter-plugins-dependencies
+flutter_nicopixel_frontend/ios/Runner.xcworkspace/
+flutter_nicopixel_frontend/ios/Runner.xcodeproj/project.xcworkspace/
+flutter_nicopixel_frontend/ios/build/
+
+# 🌍 Node.js (Backend)
+node_nicopixel_server/node_modules/
+node_nicopixel_server/.npm/
+node_nicopixel_server/.yarn/
+node_nicopixel_server/.pnp.*
+node_nicopixel_server/package-lock.json
+node_nicopixel_server/yarn.lock
+node_nicopixel_server/build/
+node_nicopixel_server/dist/
+node_nicopixel_server/coverage/
+node_nicopixel_server/.env
+node_nicopixel_server/.DS_Store
+node_nicopixel_server/.cache/
+node_nicopixel_server/logs/
+node_nicopixel_server/debug.log
+node_nicopixel_server/npm-debug.log*
+node_nicopixel_server/yarn-error.log
+node_nicopixel_server/.eslintcache
+node_nicopixel_server/.parcel-cache
+node_nicopixel_server/.turbo/
+
+# 🔥 Logs & Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# 📦 Dependencies
+node_modules/
+.pnp/
+.pnp.js
+dist/
+out/
+coverage/
+.env
+.env.local
+.env.*.local
+
+# 🔍 Testing
+/coverage
+/jest/
+*.lcov
+*.snap
+
+# 🛠 CI/CD
+.npmrc
+.yarnrc
+
+# 🏗️ Build Output
+build/
+out/
+.temp/
+.cache/
+*.tsbuildinfo
+*.lock
+
+# 🚀 Deployment
+firebase-debug.log
+firebase-debug.json
+functions/node_modules/
+functions/.eslintcache
+functions/.cache
+functions/package-lock.json
+functions/yarn.lock
+
+# 🔑 Sensitive Data
+secret_*
+credentials_*
+*.pem
+*.key
+*.crt
+*.pfx
